@@ -1,14 +1,14 @@
-# Chronic School Absenteeism in NYC Public Schools
-# Project Plan
+Chronic School Absenteeism in NYC Public Schools
+Project Plan
 
-## Introduction
+Introduction
 Chronic absenteeism is the main indicator of school quality and student success that states in the U.S. have used to meet the requirements of the 2015 Every Student Succeeds Act (ESSA) governing the country’s K–12 public education policy.
 In 2016 the first US Education Department report since the Act showed that more than 6 million students in the US were chronically absent, meaning they missed more than 15 school days in a year.
 Six years and a pandemic later, the latest figures remain disquieting. 
 Looking at New York City only, the chronic school absenteeism rate in public schools is 41%. 
 This project aims to understand the underlying causes/risk factors and propose measures to address them.
 
-## Research Questions
+Research Questions
 
 To understand the city’s exceptionally high school absenteeism situation, this project will answer the following research questions: 
 
@@ -41,7 +41,7 @@ What can the city administration do to reduce the current truancy rate?
 
 Make some recommendations based on the findings.
 
-## Data Preparation
+III. 	Data Preparation
 
 This project analyzes public school attendance data covering the school years between 2016 and 2022. 
 As such, it represents the entire public school population in that period.
@@ -70,8 +70,7 @@ Interactions were reported by schools during remote learning, from April 6 2020 
 • Other evidence of participation as determined by the principal.
 Interactions data are attributed to students' school of record on a given day. A student participating in a Shared Instruction (SHIN) model may have recorded interactions at multiple schools on a given day, but only one record is counted for the interaction rate, attributed to students' school of record for that day.
 Due to the shift to hybrid learning, attendance data for the 2020-21 school year include both in-person and remote instruction. Total days, days absent, and days present fields include both in-person and remote attendance.
-
-## Further reading:
+Further reading:
 https://www.nyc.gov/html/truancy/downloads/pdf/attendance_presentation_nca.pdf
 
 https://www.childtrends.org/states-missing-point-essas-fifth-indicator
