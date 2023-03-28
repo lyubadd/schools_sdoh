@@ -20,7 +20,7 @@ To understand the city’s exceptionally high school absenteeism situation, this
 * What are the chronic school absenteeism neighborhood risk factors?
 * What can the city administration do to reduce the current truancy rate?
 
-III. 	Data Preparation
+## Data Preparation
 
 This project analyzes public school attendance data covering the school years between 2016 and 2021. 
 
