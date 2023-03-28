@@ -1,14 +1,13 @@
-# Chronic School Absenteeism in NYC Public Schools: In Progress
+# Chronic School Absenteeism in NYC Public Schools (Work in Progress)
 # Project Plan
 
 ## Introduction
-Chronic absenteeism is the main indicator of school quality and student success that New York state has used to meet the requirements of the 2015 Every Student Succeeds Act (ESSA) governing the country’s K–12 public education policy.
+
+Chronic absenteeism is the main indicator of school quality and student success that New York State has used to meet the requirements of the 2015 Every Student Succeeds Act (ESSA) governing the country’s K–12 public education policy.
 
 In 2016 the first US Education Department report since the Act showed that more than 6 million students in the US were chronically absent, meaning they missed more than 15 school days in a year.
 
-Six years and a pandemic later, the latest figures remain disquieting. 
-
-Looking at New York City only, the chronic school absenteeism rate for the school year 2020-2021 in public schools was 41%. 
+Six years and a pandemic later, the latest figures remain disquieting. Looking at New York City only, the chronic school absenteeism rate for the school year 2020-2021 in public schools was 41%. 
 
 This project aims to understand the underlying causes/risk factors and propose measures to address them.
 
