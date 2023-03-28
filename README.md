@@ -18,7 +18,7 @@ To understand the city’s exceptionally high school absenteeism situation, this
 * How have the NYC chronic school absenteeism rates changed over time since the 2016-2017 school year?
 * What schools and geographic areas in the city (zip code and school district) have the highest school absenteeism rates? Has the trend changed over time? If so, how? 
 * What are the chronic school absenteeism neighborhood risk factors?
-* What can the city administration do to reduce the current truancy rate?
+* What can the city administration do to reduce the current chronic school absenteeism rate?
 
 ## Data Preparation
 
