@@ -13,12 +13,14 @@ This project aims to understand the underlying causes/risk factors and propose m
 
 ## Research Questions
 
-To understand the city’s exceptionally high school absenteeism situation, this project will answer the following research questions: 
+To understand the city’s exceptionally high school absenteeism rates, this project will answer the following research questions: 
 
 * How have the NYC chronic school absenteeism rates changed over time since the 2016-2017 school year?
 * What schools and geographic areas in the city (zip code and school district) have the highest school absenteeism rates? Has the trend changed over time? If so, how? 
 * What are the chronic school absenteeism neighborhood risk factors?
 * What can the city administration do to reduce the current chronic school absenteeism rate?
+
+In all of the above questions, the project will look at the effect of age, gender, race, disability, students being English language learners, and in temporary housing.
 
 ## Data Preparation
 
